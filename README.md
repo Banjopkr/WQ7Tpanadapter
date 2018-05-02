@@ -39,3 +39,4 @@ sudo ldconfig
 
 sudo pip install pyrtlsdr
 
+git clone https://github.com/Banjopkr/WQ7Tpanadapter.git

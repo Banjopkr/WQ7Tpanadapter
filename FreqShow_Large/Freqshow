@@ -1,0 +1,3 @@
+cd
+cd FreqShow
+sudo python freqshow.py

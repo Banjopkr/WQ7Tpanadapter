@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Panadapter
+Comment=FreqShow Large panadapter for ham radio
+TryExec=/home/pi/FreqShow_Large/launcher.sh
+Exec=sh -c $HOME/FreqShow_Large/launcher.sh
+Icon=/usr/share/pixmaps/python.xpm
+Terminal=false
+Type=Application
+Categories=Application;Game;
+StartupNotify=true

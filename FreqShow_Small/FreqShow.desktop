@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Panadapter
+Comment=FreqShow, small version, panadapter for ham radio
+TryExec=/home/pi/FreqShow_Small/launcher.sh
+Exec=sh -c $HOME/FreqShow_Small/launcher.sh
+Icon=/usr/share/pixmaps/python.xpm
+Terminal=false
+Type=Application
+Categories=Application;Game;
+StartupNotify=true

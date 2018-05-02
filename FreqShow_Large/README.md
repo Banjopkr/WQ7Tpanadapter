@@ -49,12 +49,12 @@ git clone https://github.com/Banjopkr/WQ7Tpanadapter.git
 If you want to use 7" or other large display
 
 sudo cp -r WQ7Tpanadapter/FreqShow_Large FreqShow_Large
-sudo cp -r FreqShow/FreqShow.desktop Desktop/FreqShow.desktop
+sudo cp -r FreqShow_Large/FreqShow.desktop Desktop/FreqShow.desktop
 
 If you want to use 2.8" or other small display
 
 sudo cp -r WQ7Tpanadapter/FreqShow_Small FreqShow_Small
-sudo cp -r FreqShow/FreqShow.desktop Desktop/FreqShow.desktop
+sudo cp -r FreqShow_Small/FreqShow.desktop Desktop/FreqShow.desktop
 
 Now you should have a launcher file to double click on from the desktop
 
